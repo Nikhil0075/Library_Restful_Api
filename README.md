@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This document provides detailed information about the Library Database Endpoint API. starting from installing to operation on api 
+This document provides detailed information about the Library Database Endpoint API. starting from installing to operations on api 
 
 ## Getting Started
 
