@@ -16,7 +16,7 @@ This document provides detailed information about the Library Database Endpoint 
 
 1. Clone the repository:
    ```sh
-   git clone [repository URL]
+   git clone https://github.com/Nikhil0075/Library_Restful_Api
    ```
 
 2. Install NPM packages:
